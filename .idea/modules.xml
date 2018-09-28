@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/ZigbeeProj.iml" filepath="$PROJECT_DIR$/ZigbeeProj.iml" />
+      <module fileurl="file://$PROJECT_DIR$/zigbee_biz/zigbee_biz.iml" filepath="$PROJECT_DIR$/zigbee_biz/zigbee_biz.iml" />
+      <module fileurl="file://$PROJECT_DIR$/zigbee_dao/zigbee_dao.iml" filepath="$PROJECT_DIR$/zigbee_dao/zigbee_dao.iml" />
+      <module fileurl="file://$PROJECT_DIR$/zigbee_web/zigbee_web.iml" filepath="$PROJECT_DIR$/zigbee_web/zigbee_web.iml" />
+    </modules>
+  </component>
+</project>

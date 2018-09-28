@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="zigbee_web:war">
+    <output-path>$PROJECT_DIR$/zigbee_web/target</output-path>
+    <root id="archive" name="zigbee_web.war">
+      <element id="artifact" artifact-name="zigbee_web:war exploded" />
+    </root>
+  </artifact>
+</component>
